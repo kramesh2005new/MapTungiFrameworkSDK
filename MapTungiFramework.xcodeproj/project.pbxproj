@@ -8,12 +8,52 @@
 
 /* Begin PBXBuildFile section */
 		8E6B4A8D250B19CC001284AB /* MapTungiFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 8E6B4A8B250B19CC001284AB /* MapTungiFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8E6B4AB3250B1ABF001284AB /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6B4A94250B1ABF001284AB /* AppConstants.swift */; };
+		8E6B4AB4250B1ABF001284AB /* Manager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6B4A95250B1ABF001284AB /* Manager.swift */; };
+		8E6B4AB5250B1ABF001284AB /* MapViewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6B4A98250B1ABF001284AB /* MapViewVC.swift */; };
+		8E6B4AB6250B1ABF001284AB /* AssetsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6B4A9A250B1ABF001284AB /* AssetsModel.swift */; };
+		8E6B4AB7250B1ABF001284AB /* AssetsApiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6B4A9B250B1ABF001284AB /* AssetsApiModel.swift */; };
+		8E6B4AB8250B1ABF001284AB /* PivotModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6B4A9C250B1ABF001284AB /* PivotModel.swift */; };
+		8E6B4AB9250B1ABF001284AB /* AssetsConfigurationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6B4A9D250B1ABF001284AB /* AssetsConfigurationModel.swift */; };
+		8E6B4ABA250B1ABF001284AB /* customPopup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6B4A9F250B1ABF001284AB /* customPopup.swift */; };
+		8E6B4ABB250B1ABF001284AB /* customPopup.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E6B4AA0250B1ABF001284AB /* customPopup.xib */; };
+		8E6B4ABC250B1ABF001284AB /* APIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6B4AA2250B1ABF001284AB /* APIClient.swift */; };
+		8E6B4ABD250B1ABF001284AB /* Assestconfig.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E6B4AA5250B1ABF001284AB /* Assestconfig.json */; };
+		8E6B4ABE250B1ABF001284AB /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6B4AA7250B1ABF001284AB /* UIView.swift */; };
+		8E6B4ABF250B1ABF001284AB /* ParentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6B4AA9250B1ABF001284AB /* ParentViewController.swift */; };
+		8E6B4AC0250B1ABF001284AB /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 8E6B4AAB250B1ABF001284AB /* index.html */; };
+		8E6B4AC1250B1ABF001284AB /* Loader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E6B4AAC250B1ABF001284AB /* Loader.xib */; };
+		8E6B4AC2250B1ABF001284AB /* Loader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6B4AAD250B1ABF001284AB /* Loader.swift */; };
+		8E6B4AC3250B1ABF001284AB /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E6B4AAF250B1ABF001284AB /* star.png */; };
+		8E6B4AC4250B1ABF001284AB /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E6B4AB0250B1ABF001284AB /* back.png */; };
+		8E6B4AC5250B1ABF001284AB /* hide.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E6B4AB1250B1ABF001284AB /* hide.png */; };
+		8E6B4AC6250B1ABF001284AB /* toggle.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E6B4AB2250B1ABF001284AB /* toggle.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		8E6B4A88250B19CC001284AB /* MapTungiFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MapTungiFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E6B4A8B250B19CC001284AB /* MapTungiFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MapTungiFramework.h; sourceTree = "<group>"; };
 		8E6B4A8C250B19CC001284AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E6B4A94250B1ABF001284AB /* AppConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
+		8E6B4A95250B1ABF001284AB /* Manager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Manager.swift; sourceTree = "<group>"; };
+		8E6B4A98250B1ABF001284AB /* MapViewVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewVC.swift; sourceTree = "<group>"; };
+		8E6B4A9A250B1ABF001284AB /* AssetsModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssetsModel.swift; sourceTree = "<group>"; };
+		8E6B4A9B250B1ABF001284AB /* AssetsApiModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssetsApiModel.swift; sourceTree = "<group>"; };
+		8E6B4A9C250B1ABF001284AB /* PivotModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PivotModel.swift; sourceTree = "<group>"; };
+		8E6B4A9D250B1ABF001284AB /* AssetsConfigurationModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssetsConfigurationModel.swift; sourceTree = "<group>"; };
+		8E6B4A9F250B1ABF001284AB /* customPopup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = customPopup.swift; sourceTree = "<group>"; };
+		8E6B4AA0250B1ABF001284AB /* customPopup.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = customPopup.xib; sourceTree = "<group>"; };
+		8E6B4AA2250B1ABF001284AB /* APIClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIClient.swift; sourceTree = "<group>"; };
+		8E6B4AA5250B1ABF001284AB /* Assestconfig.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Assestconfig.json; sourceTree = "<group>"; };
+		8E6B4AA7250B1ABF001284AB /* UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
+		8E6B4AA9250B1ABF001284AB /* ParentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParentViewController.swift; sourceTree = "<group>"; };
+		8E6B4AAB250B1ABF001284AB /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		8E6B4AAC250B1ABF001284AB /* Loader.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Loader.xib; sourceTree = "<group>"; };
+		8E6B4AAD250B1ABF001284AB /* Loader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Loader.swift; sourceTree = "<group>"; };
+		8E6B4AAF250B1ABF001284AB /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
+		8E6B4AB0250B1ABF001284AB /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		8E6B4AB1250B1ABF001284AB /* hide.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hide.png; sourceTree = "<group>"; };
+		8E6B4AB2250B1ABF001284AB /* toggle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toggle.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,10 +86,126 @@
 		8E6B4A8A250B19CC001284AB /* MapTungiFramework */ = {
 			isa = PBXGroup;
 			children = (
+				8E6B4A93250B1ABF001284AB /* Constants */,
+				8E6B4AA3250B1ABF001284AB /* Helper */,
+				8E6B4AAE250B1ABF001284AB /* images */,
+				8E6B4A95250B1ABF001284AB /* Manager.swift */,
+				8E6B4A96250B1ABF001284AB /* Modules */,
 				8E6B4A8B250B19CC001284AB /* MapTungiFramework.h */,
 				8E6B4A8C250B19CC001284AB /* Info.plist */,
 			);
 			path = MapTungiFramework;
+			sourceTree = "<group>";
+		};
+		8E6B4A93250B1ABF001284AB /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				8E6B4A94250B1ABF001284AB /* AppConstants.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		8E6B4A96250B1ABF001284AB /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				8E6B4A97250B1ABF001284AB /* Controller */,
+				8E6B4A99250B1ABF001284AB /* Model */,
+				8E6B4A9E250B1ABF001284AB /* View */,
+				8E6B4AA1250B1ABF001284AB /* Helper */,
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		8E6B4A97250B1ABF001284AB /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				8E6B4A98250B1ABF001284AB /* MapViewVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		8E6B4A99250B1ABF001284AB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				8E6B4A9A250B1ABF001284AB /* AssetsModel.swift */,
+				8E6B4A9B250B1ABF001284AB /* AssetsApiModel.swift */,
+				8E6B4A9C250B1ABF001284AB /* PivotModel.swift */,
+				8E6B4A9D250B1ABF001284AB /* AssetsConfigurationModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		8E6B4A9E250B1ABF001284AB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				8E6B4A9F250B1ABF001284AB /* customPopup.swift */,
+				8E6B4AA0250B1ABF001284AB /* customPopup.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		8E6B4AA1250B1ABF001284AB /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				8E6B4AA2250B1ABF001284AB /* APIClient.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		8E6B4AA3250B1ABF001284AB /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				8E6B4AA4250B1ABF001284AB /* Configuration */,
+				8E6B4AA6250B1ABF001284AB /* UIView */,
+				8E6B4AA8250B1ABF001284AB /* UIViewController */,
+				8E6B4AAA250B1ABF001284AB /* Loader */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		8E6B4AA4250B1ABF001284AB /* Configuration */ = {
+			isa = PBXGroup;
+			children = (
+				8E6B4AA5250B1ABF001284AB /* Assestconfig.json */,
+			);
+			path = Configuration;
+			sourceTree = "<group>";
+		};
+		8E6B4AA6250B1ABF001284AB /* UIView */ = {
+			isa = PBXGroup;
+			children = (
+				8E6B4AA7250B1ABF001284AB /* UIView.swift */,
+			);
+			path = UIView;
+			sourceTree = "<group>";
+		};
+		8E6B4AA8250B1ABF001284AB /* UIViewController */ = {
+			isa = PBXGroup;
+			children = (
+				8E6B4AA9250B1ABF001284AB /* ParentViewController.swift */,
+			);
+			path = UIViewController;
+			sourceTree = "<group>";
+		};
+		8E6B4AAA250B1ABF001284AB /* Loader */ = {
+			isa = PBXGroup;
+			children = (
+				8E6B4AAB250B1ABF001284AB /* index.html */,
+				8E6B4AAC250B1ABF001284AB /* Loader.xib */,
+				8E6B4AAD250B1ABF001284AB /* Loader.swift */,
+			);
+			path = Loader;
+			sourceTree = "<group>";
+		};
+		8E6B4AAE250B1ABF001284AB /* images */ = {
+			isa = PBXGroup;
+			children = (
+				8E6B4AAF250B1ABF001284AB /* star.png */,
+				8E6B4AB0250B1ABF001284AB /* back.png */,
+				8E6B4AB1250B1ABF001284AB /* hide.png */,
+				8E6B4AB2250B1ABF001284AB /* toggle.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,6 +251,7 @@
 				TargetAttributes = {
 					8E6B4A87250B19CC001284AB = {
 						CreatedOnToolsVersion = 11.2.1;
+						LastSwiftMigration = 1120;
 					};
 				};
 			};
@@ -121,6 +278,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E6B4AC0250B1ABF001284AB /* index.html in Resources */,
+				8E6B4AC3250B1ABF001284AB /* star.png in Resources */,
+				8E6B4AC4250B1ABF001284AB /* back.png in Resources */,
+				8E6B4ABD250B1ABF001284AB /* Assestconfig.json in Resources */,
+				8E6B4AC1250B1ABF001284AB /* Loader.xib in Resources */,
+				8E6B4ABB250B1ABF001284AB /* customPopup.xib in Resources */,
+				8E6B4AC5250B1ABF001284AB /* hide.png in Resources */,
+				8E6B4AC6250B1ABF001284AB /* toggle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -131,6 +296,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E6B4ABE250B1ABF001284AB /* UIView.swift in Sources */,
+				8E6B4AB7250B1ABF001284AB /* AssetsApiModel.swift in Sources */,
+				8E6B4AC2250B1ABF001284AB /* Loader.swift in Sources */,
+				8E6B4AB6250B1ABF001284AB /* AssetsModel.swift in Sources */,
+				8E6B4AB8250B1ABF001284AB /* PivotModel.swift in Sources */,
+				8E6B4ABF250B1ABF001284AB /* ParentViewController.swift in Sources */,
+				8E6B4ABA250B1ABF001284AB /* customPopup.swift in Sources */,
+				8E6B4AB9250B1ABF001284AB /* AssetsConfigurationModel.swift in Sources */,
+				8E6B4AB3250B1ABF001284AB /* AppConstants.swift in Sources */,
+				8E6B4AB5250B1ABF001284AB /* MapViewVC.swift in Sources */,
+				8E6B4AB4250B1ABF001284AB /* Manager.swift in Sources */,
+				8E6B4ABC250B1ABF001284AB /* APIClient.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +437,7 @@
 		8E6B4A91250B19CC001284AB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 656P9X4WBR;
@@ -276,6 +454,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Ramesh.MapTungiFramework;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -284,6 +463,7 @@
 		8E6B4A92250B19CC001284AB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 656P9X4WBR;
