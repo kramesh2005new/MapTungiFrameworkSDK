@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-let URL_ASSESTS = "http://selectuat3.clubmahindra.com/get-resort-assets"
-let URL_PIVOT_POINTS = "http://selectuat3.clubmahindra.com/get-resort-pivot"
+let URL_ASSESTS = "https://selectuat3.clubmahindra.com/get-resort-assets"
+let URL_PIVOT_POINTS = "https://selectuat3.clubmahindra.com/get-resort-pivot"
 let ASSESTS_RESORT_ID = "19"
 let PIVOT_RESORT_ID = "19"
